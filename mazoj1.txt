@@ -1,0 +1,100 @@
+Carta1: Arcane Signet
+Carta2: Astral Cornucopia
+Carta3: Contagion Clasp
+Carta4: Contagion Engine
+Carta5: Everflowing Chalice
+Carta6: Fellwar Stone
+Carta7: Magistrate's Scepter
+Carta8: Pentad Prism
+Carta9: Pyramid of the Pantheon
+Carta10: Sol Ring
+Carta11: Agent's Toolkit
+Carta12: Forest
+Carta13: Island
+Carta14: Plains
+Carta15: Swamp
+Carta16: Conclave Mentor
+Carta17: Forgotten Ancient
+Carta18: Vigor
+Carta19: Evolution Sage
+Carta20: Incubation Druid
+Carta21: Master Biomancer
+Carta22: Deepglow Skate
+Carta23: Corpsejack Menace
+Carta24: Luminarch Aspirant
+Carta25: Slippery Bogbonder
+Carta26: Juniper Order Ranger
+Carta27: Abzan Falconer
+Carta28: Elite Scaleguard
+Carta29: Champion of Lambholt
+Carta30: Tuskguard Captain
+Carta31: Fathom Mage
+Carta32: Managorger Hydra
+Carta33: Herald of Secret Streams
+Carta34: Thrummingbird
+Carta35: Ichor Rats
+Carta36: Loyal Guardian
+Carta37: Winding Constrictor
+Carta38: Grateful Apparition
+Carta39: Steelbane Hydra
+Carta40: Brokers Ascendancy
+Carta41: Cathars' Crusade
+Carta42: Citadel Siege
+Carta43: Ghostly Prison
+Carta44: Hardened Scales
+Carta45: Inexorable Tide
+Carta46: Simic Ascendancy
+Carta47: Abzan Charm
+Carta48: Brokers Confluence
+Carta49: Grim Affliction
+Carta50: Inspiring Call
+Carta51: Mortify
+Carta52: Arcane Sanctum
+Carta53: Command Tower
+Carta54: Dreadship Reef
+Carta55: Exotic Orchard
+Carta56: Gavony Township
+Carta57: Karn's Bastion
+Carta58: Opal Palace
+Carta59: Opulent Palace
+Carta60: Saltcrusted Steppe
+Carta61: Sandsteppe Citadel
+Carta62: Terramorphic Expanse
+Carta63: Thriving Grove
+Carta64: Thriving Heath
+Carta65: Thriving Isle
+Carta66: Thriving Moor
+Carta67: Vivid Creek
+Carta68: Vivid Grove
+Carta69: Vivid Marsh
+Carta70: Vivid Meadow
+Carta71: Shalai, Voice of Plenty
+Carta72: Falco Spara, Pactweaver
+Carta73: Hamza, Guardian of Arashin
+Carta74: Ghave, Guru of Spores
+Carta75: Mikaeus, the Lunarch
+Carta76: Vorel of the Hull Clade
+Carta77: Roalesk, Apex Hybrid
+Carta78: Atraxa, Praetors' Voice # !Commander
+Carta79: Polukranos, Unchained
+Carta80: Master Chef
+Carta81: Ajani, the Greathearted
+Carta82: Nissa, Voice of Zendikar
+Carta83: Vraska the Unseen
+Carta84: Replicating Ring
+Carta85: Broken Bond
+Carta86: Cultivate
+Carta87: Damning Verdict
+Carta88: Diabolic Tutor
+Carta89: Smell Fear
+Carta90: Tezzeret's Gambit
+Carta91: Enduring Scalelord
+Carta92: Scavenging Ooze
+Carta93: Myth Unbound
+Carta94: Boon of Safety
+Carta95: Ishai, Ojutai Dragonspeaker
+Carta96: Lae'zel, Vlaakith's Champion
+Carta97: Prime Speaker Zegana
+Carta98: Feed the Swarm
+Carta99: Plains
+Carta100: Swamp

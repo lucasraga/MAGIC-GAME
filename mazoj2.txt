@@ -1,0 +1,100 @@
+Carta1: Command Tower
+Carta2: Evolving Wilds
+Carta3: Forest
+Carta4: Golgari Rot Farm
+Carta5: Jungle Hollow
+Carta6: Karn's Bastion
+Carta7: Path of Ancestry
+Carta8: Swamp
+Carta9: Tainted Wood
+Carta10:Terramorphic Expanse
+Carta11:Thriving Grove
+Carta12:Thriving Moor
+Carta13:Woodland Cemetery
+Carta14:Mana Artifacts
+Carta15:Arcane Signet
+Carta16:Commander's Sphere
+Carta17:Golgari Cluestone
+Carta18:Golgari Locket
+Carta19:Golgari Signet
+Carta20:Sol Ring
+Carta21:Talisman of Resilience
+Carta22:Ashnod's Altar
+Carta23:Contagion Clasp
+Carta24:Druidic Satchel
+Carta25:Slimefoot, the Stowaway # !Commander
+Carta26:Blood Artist
+Carta27:Butcher of Malakir
+Carta28:Deathspore Thallid
+Carta29:Dina, Soul Steeper
+Carta30:Evolution Sage
+Carta31:Jade Mage
+Carta32:Jaheira, Friend of the Forest
+Carta33:Korozda Guildmage
+Carta34:Mycoloth
+Carta35:Nemata, Primeval Warden
+Carta36:Plaguemaw Beast
+Carta37:Poison-Tip Archer
+Carta38:Rot Shambler
+Carta39:Sakura-Tribe Elder
+Carta40:Savage Thallid
+Carta41:Seedborn Muse
+Carta42:Sporecrown Thallid
+Carta43:Sporemound
+Carta44:Sporesower Thallid
+Carta45:Sporeweb Weaver
+Carta46:Sporoloth Ancient
+Carta47:Tendershoot Dryad
+Carta48:Thallid
+Carta49:Thallid Devourer
+Carta50:Thallid Germinator
+Carta51:Thallid Shell-Dweller
+Carta52:Thelon of Havenwood
+Carta53:Thelonite Hermit
+Carta54:Tukatongue Thallid
+Carta55:Undercellar Myconid
+Carta56:Utopia Mycon
+Carta57:Verdant Force
+Carta58:Verdeloth the Ancient
+Carta59:Vitaspore Thallid
+Carta60:Whisper, Blood Liturgist
+Carta61:Winding Constrictor
+Carta62:Yavimaya Sapherd
+Carta63:Beastmaster Ascension
+Carta64:Fungal Plots
+Carta65:Necrogenesis
+Carta66:Primal Vigor
+Carta67:Sylvan Anthem
+Carta68:Verdant Embrace
+Carta69:Wilderness Reclamation
+Carta70:Flash Foliage
+Carta71:Fungal Rebirth
+Carta72:Scatter the Seeds
+Carta73:Sprout Swarm
+Carta74:Wrap in Vigor
+Carta75:Eaten Alive
+Carta76:Fungal Sprouting
+Carta77:Gruesome Fate
+Carta78:Saproling Symbiosis
+Carta79:Vraska, Golgari Queen
+Carta80:Swamp
+Carta81:Swamp
+Carta82:Swamp
+Carta83:Swamp
+Carta84:Swamp
+Carta85:Swamp
+Carta86:Swamp
+Carta87:Swamp
+Carta88:Swamp
+Carta89:Swamp
+Carta90:Swamp
+Carta91:Forest
+Carta92:Forest
+Carta93:Forest
+Carta94:Forest
+Carta95:Forest
+Carta96:Forest
+Carta97:Forest
+Carta98:Forest
+Carta99:Forest
+Carta100:Forest

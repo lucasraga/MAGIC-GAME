@@ -1,0 +1,22 @@
+REGLAS Y MODIFICADORES DE JUEGO
+Este formato es para cuatro jugadores y los mazos tienen 99 cartas y 1 carta de comandante. Los juegos de este formato deberían durar unos 20 minutos por participante.
+
+El formato Commander se centra en elegir a tu héroe y construir un mazo basado en él. En esta modalidad casual para varios jugadores, eliges una criatura legendaria para que sea tu comandante y construyes el resto del mazo en torno a su identidad de color y sus habilidades. Los jugadores solo pueden incluir en el mazo una copia de cada carta, a excepción de las tierras básicas, pero se permite usar cartas de toda la historia de Magic.
+
+IDENTIDAD DE COLOR
+La identidad de color se determina a partir de cualquier parte de la carta, incluyendo su coste de lanzamiento y cualquier símbolo de maná que haya en el texto. Todas las cartas de tu mazo de Commander deben usar únicamente símbolos de maná que también aparezcan en tu comandante. Las cartas incoloras también están permitidas.
+
+ZONA DE MANDO
+Aquí es donde está tu comandante durante la partida cuando no está en juego. Al principio del juego, cada jugador pone a su comandante boca arriba en la zona de mando. Se puede lanzar a un comandante desde la zona de mando por su coste normal pero, cada vez que se haya jugado de esta manera, hay que pagar 2 manás adicionales. Si mandan a tu comandante al cementerio o al exilio, puedes devolverlo a tu zona de mando, si así lo prefieres.
+
+DAÑO DE COMANDANTE
+Si un mismo comandante hace 21 puntos de daño de combate a un jugador en el transcurso del juego, este jugador pierde el juego. Por este motivo, se realiza un seguimiento del comandante por todas las zonas por las que pasa (por ejemplo, si un jugador toma el control del comandante de otro jugador, se cuenta cualquier daño que el comandante ya hiciera).
+
+DISFRUTA DE JUEGOS DE VARIOS JUGADORES TODOS CONTRA TODOS
+Si juegas un juego de Commander con tres o más personas, el formato es de varios jugadores todos contra todos.
+
+Cada jugador empieza con 40 vidas, coloca a su comandante boca arriba en su zona de mando y roba una mano de siete cartas. Los jugadores se sientan al azar en círculo y los turnos avanzan de jugador en jugador en el sentido de las agujas del reloj alrededor de la mesa.
+
+Durante el juego, un jugador puede decidir atacar a cualquier otro jugador, al margen de su posición en la mesa, o atacar a varios jugadores diferentes en su fase de ataque. Los permanentes, hechizos y habilidades también pueden hacer objetivo a cualquier jugador de la mesa (siempre que no digan explícitamente que “tú” eres la persona afectada).
+
+Sea cual sea el desenlace, Commander ofrece herramientas para que los jugadores se expresen mediante estrategia, habilidad y mucha diversión construyendo mazos.
