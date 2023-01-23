@@ -7,7 +7,7 @@ ventana.title("Ventana prueba Arcane Signet")
 ventana.geometry("500x500")
 
 # Cargar la imagen
-imagen = PhotoImage(file="")
+imagen = PhotoImage(file="https://github.com/lucasraga/MAGIC-GAME/blob/main/diego/img/arcane-signet.png")
 
 # Crear una etiqueta para mostrar la imagen
 etiqueta_imagen = tk.Label(ventana, image=imagen)
